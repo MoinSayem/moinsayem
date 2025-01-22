@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on android development
+- 🌱 I’m currently learning algorothms
+- 🤔 I’m looking for help with ML, AI
+- 😄 Pronouns: He/HIM
+
 <!--
 **MoinSayem/moinsayem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
