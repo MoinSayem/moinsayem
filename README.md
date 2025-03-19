@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on android development
-- 🌱 I’m currently learning algorothms
+- 🌱 I’m currently learning algorithms
 - 🤔 I’m looking for help with ML, AI
 - 😄 Pronouns: He/HIM
 
